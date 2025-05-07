@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 first
 second
 third
 
+=======
+FIRST
+>>>>>>> parent of 1c18e31 (second commit)
